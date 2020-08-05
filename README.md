@@ -23,20 +23,17 @@
 <a href="https://github.com/No-OnE-Kn0wS-Me">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=No-OnE-Kn0wS-Me&show_icons=true&theme=dark&line_height=30" alt="Ｈｉｔｓｕｋａ's github stats"/>
 </a>
-<a href="https://github.com/No-OnE-Kn0wS-Me/TG-Media-To-Telegraph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=TG-Media-To-Telegraph&theme=dark" />
-
-</a>
-<a href="https://github.com/No-OnE-Kn0wS-Me/dArK_pRiNcE">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=dArK_pRiNcE&theme=dark" />
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
 
+<a href="https://github.com/No-OnE-Kn0wS-Me/TG-Media-To-Telegraph">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=TG-Media-To-Telegraph&theme=dark" />
+</a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=No-OnE-Kn0wS-Me&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161515)
+<a href="https://github.com/No-OnE-Kn0wS-Me/dArK_pRiNcE">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=dArK_pRiNcE&theme=dark" />
+</a>
 
