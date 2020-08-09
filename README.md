@@ -25,15 +25,3 @@
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<a href="https://github.com/No-OnE-Kn0wS-Me/TG-Media-To-Telegraph">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=TG-Media-To-Telegraph&theme=dark" />
-</a>
-
-<a href="https://github.com/No-OnE-Kn0wS-Me/dArK_pRiNcE">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=No-OnE-Kn0wS-Me&repo=dArK_pRiNcE&theme=dark" />
-</a>
-
